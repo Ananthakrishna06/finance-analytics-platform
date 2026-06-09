@@ -23,6 +23,7 @@ A personal finance management application developed using Flutter and Dart as pa
 
 This application was developed as part of my dissertation project to help users manage personal finances, track spending, and gain insights into their financial habits.
 
+##
 ## Screenshots
 <img width="720" height="1600" alt="screen 1" src="https://github.com/user-attachments/assets/66e7f691-81e0-4688-8b7b-49a81d18c856" />
 <img width="720" height="1600" alt="screen 2" src="https://github.com/user-attachments/assets/331b103d-c454-414f-ab58-e31284bdb255" />
